@@ -15,8 +15,6 @@ public:
     explicit prueba(QWidget *parent = 0);
     ~prueba();
 	
-
-
 	void hola();
 
 private:

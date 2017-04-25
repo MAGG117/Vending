@@ -15,5 +15,5 @@ prueba::~prueba()
 
 void prueba::hola()
 {
-
+    ui->label->setText("Hola mundo");
 }
