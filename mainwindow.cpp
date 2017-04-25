@@ -19,9 +19,3 @@ void MainWindow::on_pushButton_clicked()
     NuevaPantalla->show();
     close();
 }
-
-imagenes
-conexion
-botones
-labels
-concatenar
