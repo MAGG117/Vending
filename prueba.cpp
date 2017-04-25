@@ -18,5 +18,4 @@ void prueba::hola()
     ui->label->setText("Hola mundo");
 }
 
-//los bebes negros f melocottongo
-//hola
+//si sirve
